@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**dcoomber/dcoomber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tester.  I test stuff.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on automated functional and visual testing
+- 🌱 I’m currently learning automated functional and visual testing, Ruby
+- 💬 Ask me about being pragmatic when it comes to testing
+- 📫 How to reach me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![linkedin badge](https://img.shields.io/badge/David_Coomber-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/dcoomber)
+[![twitter badge](https://img.shields.io/badge/@dpcoomber-30302f?style=flat&logo=twitter)](https://twitter.com/dpcoomber)
+
+- 😄 Pronouns: he / him / his
+- ⚡ Fun fact: I play guitar (but not as much as I'd like)
